@@ -4,8 +4,8 @@ dateparser
 python-dotenv
 fastapi
 uvicorn
-tzdata
-lxml
 slowapi
 curl_cffi
 fake-headers
+tzdata
+lxml
